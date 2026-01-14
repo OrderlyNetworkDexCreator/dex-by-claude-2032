@@ -24,7 +24,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_ENABLE_CAMPAIGNS": "false",
   "VITE_TELEGRAM_URL": "",
   "VITE_DISCORD_URL": "",
-  "VITE_TWITTER_URL": "",
+  "VITE_TWITTER_URL": "https://x.com/claudexfun",
   "VITE_SEO_SITE_NAME": "Dex by Claude",
   "VITE_SEO_SITE_DESCRIPTION": "Dex created by Claude AI",
   "VITE_SEO_SITE_URL": "https://dex.orderly.network/dex-by-claude-2032/",
